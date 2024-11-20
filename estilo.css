@@ -1,0 +1,47 @@
+p {
+text-align: justify;
+font-family: Verdana;
+text-indent: 5%;
+    
+}
+
+h1 {
+    text-align: justify;
+    font-family: Verdana;
+    text-indent: 5%;
+}
+
+
+
+img {
+    width: 100%;
+    text-align: center;
+    
+    margin: auto;
+    display: block;
+}
+
+img {
+    width: 100%;
+    text-align: center;
+    
+    margin: auto;
+    display: block;
+ul {
+
+    text-align:center;
+    list-style-type:nome;
+}
+
+a {
+    font-family: Verdana;
+    font-size: 10px;
+    text-decoration: nome;
+    background: #006400;
+    color: white;
+    border: 1px #000000 solid;
+}
+
+a:href{
+background: #0000FF;
+}
